@@ -1,6 +1,6 @@
 dissent
 =======
-## What is this?
+### What is this?
 
 This project comes from feelings of mine concerning Valve's Steam system and its related DRM.
 
@@ -121,5 +121,11 @@ Instead of proprietary, closed, limited clients open software could be developed
 I did run into some difficulties inherent to the protocol itself:
 
 1) Each transaction requires a fee, which is not a huge problem when actually transferring ownership (you can easily transfer a small amount into your address to reload your balance), but by having a transaction everytime the program starts you quickily start talking about costs you don't want.
+
 This is not just an issue with Namecoin, Bitcoin has one, too. Such a fee is understandable, it prevents people from flooding the network with junk transactions and for some cryptos inventivizes miners, but it limits what is possible. Do any cryptos exist which don't have a transaction fee? Could such a thing exist? With fees, microtransactions can be difficult which seem to be a rather large aea of need.... 
+
 2) Namecoin only allows a transaction to happen once the last transaction involving the name has at least one confirmation, which makes sense, but means that if say your game shut down and you needed to restart it, it could take 5-30 minutes to wait for the last transaction to clear before you could start the game. Obviously not okay from a user's point of view.
+
+### What is in a name?
+
+I recently watched Manufaturing Consent, which is about Noam Chomsky. I'm not trying to advocate the man or his ideas, but I just though that dissent as a play on decentralized was interesting.
