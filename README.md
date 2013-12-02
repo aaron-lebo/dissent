@@ -2,13 +2,13 @@ dissent
 =======
 ### What is this?
 
-This project comes from feelings of mine concerning Valve's Steam system and its related DRM, and for that matter, all DRM sytems. I mention Valve as they are relevant in terms of gaming. I also do not intend to be overly critical, as I own products on multiple platforms described within and as a whole think they do a very good job.
+This project comes from feelings of mine concerning Valve's Steam system and its related DRM, and for that matter, all DRM sytems. I do not intend to be overly critical, as I own products on multiple platforms described within and as a whole think they do a very good job.
 
 Steam is Valve's video game/software distribution platform. Users can setup an account and then purchase games (or game licenses) and install the software for use on their computer. Quite a few of the titles include the optional DRM aspect which basically verifies that the user does indeed own a legit copy of the game.
 
 In many ways this is an improvement from the old system in which companies either didn't have software protection at all and had their software pirated like crazy, used CD keys which were easily hacked, or made sure that you had a physical CD in your computer.
 
-Consumers have accepted this system because digital distribution is convenient and cheap, but there are several losses for the consumer. Because games are tied to a Valve account, ultimately Valve has complete control, which can surface in issues such as accounts getting banned (although infrequently) and losing hundreds of dollars of games, or some long-term situation where Valve puts in place changes which are even more restrictive to the consumer. One other major aspect is this has more or less killed the reselling of games, which although was never important for computer games, is relevant to consoles and backlash was seen in Microsoft's short-lived attempts to use such a system for their Xbox One.
+Consumers have accepted this system because digital distribution is convenient and cheap, but there are several losses for the consumer. Because games are tied to a Valve account, ultimately Valve has complete control, which can surface in issues such as accounts getting banned (although infrequently) and losing hundreds of dollars of games, or some long-term situation where Valve puts in place changes which are even more restrictive to the consumer. One other major aspect is this has more or less killed the reselling of games, which although was never important for computer games, is relevant to consoles and backlash was seen in Microsoft's short-lived attempt to use such a system for their Xbox One.
 
 Valve has recently made their own strides towards a console-like system with Steam on Linux, which is exciting because it could finally eliminate the "Microsoft tax" that computer gamers pay, and allow much needed openness in the console space. However, I have major concerns that even though Valve has mostly been a benevolent dictator, they would very quickly because a monopoly in the space, and monopolies long-term limit innovation.
 
@@ -16,7 +16,7 @@ Such a problem is not limited to just Valve. EA has their own DRM/distribution p
 
 Of course such systems are also widespread across other digital goods such as books and music.
 
-In light of this, I would like to propose a form of DRM which using the Bitcoin protocol and derived cryptocurrencies is decentralized, transferrable, and open.
+In light of this, I would like to propose a form of DRM which uses the Bitcoin protocol and derived cryptocurrencies and is decentralized, transferrable, and open.
 
 ### Warning
 
@@ -108,13 +108,13 @@ python dissent.py
 
 ### Current issues and future possibilities
 
-I hope I have made it clear that I am pretty damn igorant on current systems and as such something like this might not work at all because it would get hacked within seconds.
+I hope I have made it clear that I am pretty damn ignorant on current systems and as such something like this might not work at all because it would get hacked within seconds.
 
 It is worth noting that no copy protection is perefect and to my knowledge even Steam games end up stripped of their protection and pirated. Essentially what you are looking for is something that is convenient and just good enough to keep the honest people honest.
 
 I'm thinking for a real system based around this concept to work, you'd want your Bitcoin/Namecoin/whatever client to function as your 'Steam' application and to somehow keep the local blockchain accurate and protected. What I don't know is if that is even realistic, especially with an open system.
 
-Some interesting possibilties are companies no longer being stuck in a centralized marketplace or have to give up a cut, but simply sell their keys using their own websites (not entirely unlike how you can buy Steam keys from third-parties currently). Returns are trivial in such a system. Unsatisfied? You could transfer your balance back within 48 hours. Sales numbers become easy to track. Both company and consumer would have proof of sale. And since you are already working with the tech, maybe accepting payments in Bitcoin or whatever is more likely.
+Some interesting possibilties are companies no longer being stuck in a centralized marketplace or having to give up a cut, but simply selling their keys using their own websites (not entirely unlike how you can buy Steam keys from third-parties currently). Returns are trivial in such a system. Unsatisfied? You could transfer your balance back within 48 hours. Sales numbers become easy to track. Both company and consumer would have proof of sale. And since you are already working with the tech, maybe accepting payments in Bitcoin or whatever is more likely.
 
 Instead of proprietary, closed, limited clients open software could be developed which any company could base their client upon, and of course users could use that client and the assocated features or use open ones.
 
@@ -128,4 +128,4 @@ This is not just an issue with Namecoin, Bitcoin has one, too. Such a fee is und
 
 ### What is in a name?
 
-I recently watched Manufaturing Consent, which is about Noam Chomsky. I'm not trying to advocate the man or his ideas, but I just though that dissent as a play on decentralized was interesting.
+I recently watched Manufaturing Consent, which is about Noam Chomsky. I'm not trying to advocate the man or his ideas,  I just thought that dissent as a play on decentralized was interesting.
