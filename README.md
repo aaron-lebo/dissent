@@ -1,7 +1,7 @@
 dissent
 =======
 
-Implementation of a decentralized, transferrable, and open DRM system using the Bitcoin protocol
+Implementation of a decentralized, transferrable, and open software license system using the Bitcoin protocol
 
 ### What is this?
 
