@@ -140,7 +140,7 @@ I wonder if Peercoin wouldn't make a great base, with its inherent inflation (pe
  
 2) Namecoin only allows a transaction to happen once the last transaction involving the name has at least one confirmation, which makes sense, but means that if say your game shut down and you needed to restart it, it could take 5-30 minutes to wait for the last transaction to clear before you could start the game. Obviously not okay from a user's point of view.
 
-3) If you used Namecoin as a base, you could quickly run out of globally unique name due to each software key needing one. Namecoin also has the concept of expiry which I ignore in this project. A final issue is that obtaining a name requires registration which can take anywhere from a few hours to a day, which doesn't work for instant access.
+3) If you used Namecoin as a base, you could quickly run out of globally unique names due to each software key needing one. Namecoin also has the concept of expiry which I ignore in this project. A final issue is that obtaining a name requires registration which can take anywhere from a few hours to a day, which doesn't work for instant access.
 
 Interestingly, a cryptocurrency which allowed this would have an added benefit that it would have "real" value backing it, which is something that is debated and argued about.
 
