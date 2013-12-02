@@ -39,7 +39,7 @@ if __name__ == '__main__':
             if add['address'] == address:
                 valid = True
         if not valid:
-            print 'Invalid address.'
+            print 'Invalid name.'
             os.remove('keys.txt')
             exit()
 
