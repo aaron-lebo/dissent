@@ -1,5 +1,8 @@
 dissent
 =======
+
+Implementation of a decentralized, tranferrable, and open DRM system using the Bitcoin protocol.
+
 ### What is this?
 
 This project comes from feelings of mine concerning Valve's Steam system and its related DRM, and for that matter, all DRM sytems. I do not intend to be overly critical, as I own products on multiple platforms described within and as a whole think they do a very good job.
@@ -157,5 +160,7 @@ I want to thank the kind anonymous soul who donated 1 Namecoin on #namecoin seve
 Below are a few of my addresses for different cryptos, if you would like to tip a few cents, I would be very grateful.
 
 114nsPGhJ9wN8QoA4RDGvgrouR9M8xi43V
+
 LccGuFx4T7Kwyt6LGHCYFTWSoyXPhiNW4v
+
 PCEarGJWko7WDr4YwudtZyXfpykBmHqU2F
