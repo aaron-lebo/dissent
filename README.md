@@ -1,7 +1,7 @@
 dissent
 =======
 
-Implementation of a decentralized, tranferrable, and open DRM system using the Bitcoin protocol.
+Implementation of a decentralized, transferrable, and open DRM system using the Bitcoin protocol.
 
 ### What is this?
 
@@ -95,7 +95,7 @@ Here's how it works.
 
 In principle, we now have a working, decentralized, transferrable, and open DRM system.
 
-### How to run
+### How to run it
 
 You need:
 
