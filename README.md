@@ -2,9 +2,9 @@ dissent
 =======
 ### What is this?
 
-This project comes from feelings of mine concerning Valve's Steam system and its related DRM.
+This project comes from feelings of mine concerning Valve's Steam system and its related DRM, and for that matter, all DRM sytems. I mention Valve as they are relevant in terms of gaming. I also do not intend to be overly critical, as I own products on multiple platforms described within and as a whole think they do a very good job.
 
-Just to inform those who are not aware of what that is, Steam is Valve's video game/software distribution platform. Users can setup an account and then purchase games (or game licenses) and install the software for use on their computer. Quite a few of the titles include the optional DRM aspect which basically verifies that the user does indeed own a legit copy of the game.
+Steam is Valve's video game/software distribution platform. Users can setup an account and then purchase games (or game licenses) and install the software for use on their computer. Quite a few of the titles include the optional DRM aspect which basically verifies that the user does indeed own a legit copy of the game.
 
 In many ways this is an improvement from the old system in which companies either didn't have software protection at all and had their software pirated like crazy, used CD keys which were easily hacked, or made sure that you had a physical CD in your computer.
 
