@@ -125,7 +125,7 @@ I'm thinking for a real system based around this concept to work, you'd want you
 
 Some interesting possibilties are companies no longer being stuck in a centralized marketplace or having to give up a cut, but simply selling their keys using their own websites (not entirely unlike how you can buy Steam keys from third-parties currently). Returns are trivial in such a system. Unsatisfied? You could transfer your balance back within 48 hours. Sales numbers become easy to track. Both company and consumer would have proof of sale. And since you are already working with the tech, maybe accepting payments in Bitcoin or whatever is more likely.
 
-Other possibilties include a global catalog of softwar/prices/related information distribut4ed on a Namecoin-esque system or in-game trophies/achievements distributed in the same manner as ownership.
+Other possibilties include a global catalog of software/prices/related information distribut4ed on a Namecoin-esque system or in-game trophies/achievements distributed in the same manner as ownership.
 
 Instead of proprietary, closed, limited clients open software could be developed which any company could base their client upon, and of course users could use that client and the assocated features or use open ones.
 
@@ -133,7 +133,7 @@ I did run into some difficulties inherent to the protocol itself:
 
 1) Each transaction requires a fee, which is not a huge problem when actually transferring ownership (you can easily transfer a small amount into your address to reload your balance), but by having a transaction everytime the program starts you quickily start talking about costs you don't want.
 
-This is not just an issue with Namecoin, Bitcoin has one, too. Such a fee is understandable, it prevents people from flooding the network with junk transactions and for some cryptos inventivizes miners, but it limits what is possible. Do any cryptos exist which don't have a transaction fee? Could such a thing exist? With fees, microtransactions can be difficult which seem to be a rather large aea of need.... 
+This is not just an issue with Namecoin, Bitcoin has one, too. Such a fee is understandable, it prevents people from flooding the network with junk transactions and for some cryptos inventivizes miners, but it limits what is possible. Do any cryptos exist which don't have a transaction fee? Could such a thing exist? With fees, microtransactions can be difficult which seem to be a rather large area of need.... 
 
 I wonder if Peercoin wouldn't make a great base, with its inherent inflation (perhaps important because users would be incentivized to hoard parts of currency matching to product ownership) and its use of proof of stake implying increased long-term security and energy savings. Peercoin itself has even higher transaction fees inherent to its purpose, but it
  could be worth consideration.
@@ -156,11 +156,4 @@ Aaron dot M dot Lebo at gmail dot com
 
 I really, really want to hear from people, if such a system is at all feasible I want to help make it happen.
 
-I want to thank the kind anonymous soul who donated 1 Namecoin on #namecoin several nights back. You made this possible. 
-Below are a few of my addresses for different cryptos, if you would like to tip a few cents, I would be very grateful.
-
-114nsPGhJ9wN8QoA4RDGvgrouR9M8xi43V
-
-LccGuFx4T7Kwyt6LGHCYFTWSoyXPhiNW4v
-
-PCEarGJWko7WDr4YwudtZyXfpykBmHqU2F
+I want to thank the kind anonymous soul who donated 1 Namecoin on #namecoin. You made this possible.
