@@ -125,7 +125,7 @@ I'm thinking for a real system based around this concept to work, you'd want you
 
 Some interesting possibilties are companies no longer being stuck in a centralized marketplace or having to give up a cut, but simply selling their keys using their own websites (not entirely unlike how you can buy Steam keys from third-parties currently). Returns are trivial in such a system. Unsatisfied? You could transfer your balance back within 48 hours. Sales numbers become easy to track. Both company and consumer would have proof of sale. And since you are already working with the tech, maybe accepting payments in Bitcoin or whatever is more likely.
 
-Other possibilties include a global catalog of software/prices/related information distribut4ed on a Namecoin-esque system or in-game trophies/achievements distributed in the same manner as ownership.
+Other possibilties include a global catalog of software/prices/related information distributed on a Namecoin-esque system or in-game trophies/achievements distributed in the same manner as ownership.
 
 Instead of proprietary, closed, limited clients open software could be developed which any company could base their client upon, and of course users could use that client and the assocated features or use open ones.
 
