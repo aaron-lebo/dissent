@@ -47,7 +47,7 @@ if __name__ == '__main__':
         prox.name_update(name, '', add)
     except JSONRPCException, exc: 
         if exc.error['message'] == 'there are pending operations on that name':
-            print 'Program is or was recently running. You need wait for this copy to work.'
+            print 'Program is or was recently running. You need to wait for this copy to work.'
         else:                                                     
             print 'Invalid name.'
             os.remove('keys.txt')
