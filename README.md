@@ -1,7 +1,7 @@
 dissent
 =======
 
-Implementation of a decentralized, transferrable, and open software license system using the Bitcoin protocol
+Implementation of a decentralized, transferable, and open software license system using the Bitcoin protocol
 
 ### What is this?
 
@@ -55,7 +55,7 @@ If you want to use this in terms of DRM, all that is necessary is for a piece of
 
 Some small technicalities have easy fixes.
 
-What keeps a user from transferring to multiple accounts and transferring ownership to multiple people? When the majority of a balance is transferred, so is ownership.
+What keeps a user from transfering to multiple accounts and transferring ownership to multiple people? When the majority of a balance is transfered, so is ownership.
 
 M1.send(U1, 1.0), U1.send(U2, .4), U1.send(U3, .6)
 
@@ -131,7 +131,7 @@ Instead of proprietary, closed, limited clients open software could be developed
 
 I did run into some difficulties inherent to the protocol itself:
 
-1) Each transaction requires a fee, which is not a huge problem when actually transferring ownership (you can easily transfer a small amount into your address to reload your balance), but by having a transaction everytime the program starts you quickily start talking about costs you don't want.
+1) Each transaction requires a fee, which is not a huge problem when actually transfering ownership (you can easily transfer a small amount into your address to reload your balance), but by having a transaction everytime the program starts you quickily start talking about costs you don't want.
 
 This is not just an issue with Namecoin, Bitcoin has one, too. Such a fee is understandable, it prevents people from flooding the network with junk transactions and for some cryptos inventivizes miners, but it limits what is possible. Do any cryptos exist which don't have a transaction fee? Could such a thing exist? With fees, microtransactions can be difficult which seem to be a rather large area of need.... 
 
